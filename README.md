@@ -5,9 +5,10 @@ Implementation the Neobis tasks
 • solve task
 public class Greeting {
   public static void main(String[] args) {
-    System.out.println("Hey. Welcome to my repository");
+    System.out.println("salam. Welcome to my repository");
   }
 }
 
 • author - TEMIRLAN
+
 • date - The date of creation 02.05.2024
